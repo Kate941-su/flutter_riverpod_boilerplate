@@ -18,7 +18,7 @@ For every person who uses riverpod, freezed, flutter hooks in Flutter.
 https://pub.dev/packages/riverpod
 https://pub.dev/packages/freezed
 
-# Quick setup (I think)
+# Quick setup
 1. Create your own flutter project.
 2. Copy `pubspec.yaml` in this repository.
 3. Rewrite from `pubspc.yaml` in your project to the `pubspec.yaml` you copied in the last step.
