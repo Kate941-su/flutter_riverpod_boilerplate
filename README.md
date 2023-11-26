@@ -1,6 +1,32 @@
 # riverpod_bilerplate
 
-Do you feel that it is very annoying to make boilerplate by using riverpod when you create a new project to develop a mobile application. Watch the repository and merge all source codes!!
+# Abstraction
+When creating a new mobile application project with riverpod, it can be tedious to repeatedly write boilerplate code. Consider watching the repository and merging all source codes.
+
+# function
+You can use these functions immediately.
+- riverpod
+- flutter hooks
+- freezed
+- build runner
+- flutter gen
+
+# for whom
+For every person who uses riverpod, freezed, flutter hooks in Flutter.
+
+# links
+https://pub.dev/packages/riverpod
+https://pub.dev/packages/freezed
+
+# Quick setup (I think)
+1. Create your own flutter project.
+2. Copy `pubspec.yaml` in this repository.
+3. Rewrite from `pubspc.yaml` in your project to the `pubspec.yaml` you copied in the last step.
+4. Copy `lib/main.dart` in this repository.
+5. Rewrite from `lib/main.dart` in your project to the `lib/main.dart` you copied in the last step.
+6. Execute `flutter pub get` and `flutter pub run build_runner build -d` to confirm that your setup is correct.
+7. Execute `flutter run`
+
 
 ## Getting Started
 
