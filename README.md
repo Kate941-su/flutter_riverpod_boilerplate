@@ -1,4 +1,4 @@
-# riverpod_bilerplate
+# Riverpod Boilerplate
 
 # Abstraction
 When creating a new mobile application project with riverpod, it can be tedious to repeatedly write boilerplate code. Consider watching the repository and merging all source codes.
